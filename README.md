@@ -131,19 +131,13 @@ availability: "Open for freelance, contract, or full-time opportunities"
 
 ### 🤝 Connect & Collaborate
 
-<p align="center">
-  <a href="https://portofolio-v2-one-gray.vercel.app/" target="_blank"><img src="./assets/icons/globe.svg" width="42" height="42" alt="Website" title="Website / Portfolio" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ridhotawang" target="_blank"><img src="./assets/icons/linkedin.svg" width="42" height="42" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://t.me/lavenderpoet608" target="_blank"><img src="./assets/icons/telegram.svg" width="42" height="42" alt="Telegram" title="Telegram" /></a>&nbsp;&nbsp;
-  <a href="mailto:lavenderpoet607@gmail.com"><img src="./assets/icons/email.svg" width="42" height="42" alt="Email" title="Email" /></a>&nbsp;&nbsp;
-  <a href="https://wa.me/6281311685803" target="_blank"><img src="./assets/icons/whatsapp.svg" width="42" height="42" alt="WhatsApp" title="WhatsApp" /></a>
-  <br/><br/>
-  <a href="https://portofolio-v2-one-gray.vercel.app/">Website</a> •
-  <a href="https://linkedin.com/in/ridhotawang">LinkedIn</a> •
-  <a href="https://t.me/lavenderpoet608">Telegram</a> •
-  <a href="mailto:lavenderpoet607@gmail.com">Email</a> •
-  <a href="https://wa.me/6281311685803">WhatsApp</a>
-</p>
+<div align="center">
+  <a href="https://portofolio-v2-one-gray.vercel.app/" target="_blank"><img src="./assets/icons/globe.svg" width="48" height="48" alt="Website" title="Website / Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ridhotawang" target="_blank"><img src="./assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/lavenderpoet608" target="_blank"><img src="./assets/icons/telegram.svg" width="48" height="48" alt="Telegram" title="Telegram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:lavenderpoet607@gmail.com"><img src="./assets/icons/email.svg" width="48" height="48" alt="Email" title="Email" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/6281311685803" target="_blank"><img src="./assets/icons/whatsapp.svg" width="48" height="48" alt="WhatsApp" title="WhatsApp" /></a>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=32,20,11,2&height=100&section=footer" width="100%" alt="Footer Banner" />
