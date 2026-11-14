@@ -50,48 +50,51 @@ availability: "Open for freelance, contract, or full-time opportunities"
 
 <table>
   <tr>
-    <td align="center" width="140"><b>Mobile</b></td>
+    <td align="center" width="160"><b>Mobile</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-      <img src="https://img.shields.io/badge/Android_JNI-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+      <img src="./assets/icons/flutter.svg" width="46" height="46" alt="Flutter" title="Flutter" />
+      <img src="./assets/icons/dart.svg" width="46" height="46" alt="Dart" title="Dart" />
+      <img src="./assets/icons/kotlin.svg" width="46" height="46" alt="Kotlin" title="Kotlin" />
+      <img src="./assets/icons/android.svg" width="46" height="46" alt="Android" title="Android" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Frontend & Web</b></td>
+    <td align="center"><b>Frontend &amp; Web</b></td>
     <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="./assets/icons/react.svg" width="46" height="46" alt="React" title="React" />
+      <img src="./assets/icons/nextjs.svg" width="46" height="46" alt="Next.js" title="Next.js" />
+      <img src="./assets/icons/vue.svg" width="46" height="46" alt="Vue.js" title="Vue.js" />
+      <img src="./assets/icons/typescript.svg" width="46" height="46" alt="TypeScript" title="TypeScript" />
+      <img src="./assets/icons/js.svg" width="46" height="46" alt="JavaScript" title="JavaScript" />
+      <img src="./assets/icons/tailwind.svg" width="46" height="46" alt="Tailwind CSS" title="Tailwind CSS" />
+      <img src="./assets/icons/html.svg" width="46" height="46" alt="HTML5" title="HTML5" />
+      <img src="./assets/icons/css.svg" width="46" height="46" alt="CSS3" title="CSS3" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Backend & Cloud</b></td>
+    <td align="center"><b>Backend &amp; Cloud</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="./assets/icons/nodejs.svg" width="46" height="46" alt="Node.js" title="Node.js" />
+      <img src="./assets/icons/laravel.svg" width="46" height="46" alt="Laravel" title="Laravel" />
+      <img src="./assets/icons/python.svg" width="46" height="46" alt="Python" title="Python" />
+      <img src="./assets/icons/postgresql.svg" width="46" height="46" alt="PostgreSQL" title="PostgreSQL" />
+      <img src="./assets/icons/mysql.svg" width="46" height="46" alt="MySQL" title="MySQL" />
+      <img src="./assets/icons/redis.svg" width="46" height="46" alt="Redis" title="Redis" />
+      <img src="./assets/icons/docker.svg" width="46" height="46" alt="Docker" title="Docker" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Systems & Tools</b></td>
+    <td align="center"><b>Systems &amp; Low-Level</b></td>
     <td>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
-      <img src="https://img.shields.io/badge/IDA_Pro-000000?style=flat-square&logo=target&logoColor=white" alt="IDA Pro" />
-      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="./assets/icons/cpp.svg" width="46" height="46" alt="C++" title="C++" />
+      <img src="./assets/icons/c.svg" width="46" height="46" alt="C" title="C" />
+      <img src="./assets/icons/lua.svg" width="46" height="46" alt="Lua" title="Lua" />
+      <img src="./assets/icons/ida.svg" width="46" height="46" alt="IDA Pro" title="IDA Pro / Reverse Engineering" />
+      <img src="./assets/icons/powershell.svg" width="46" height="46" alt="PowerShell" title="PowerShell" />
+      <img src="./assets/icons/bash.svg" width="46" height="46" alt="Bash" title="Bash" />
+      <img src="./assets/icons/git.svg" width="46" height="46" alt="Git" title="Git" />
+      <img src="./assets/icons/vscode.svg" width="46" height="46" alt="VS Code" title="VS Code" />
+      <img src="./assets/icons/vercel.svg" width="46" height="46" alt="Vercel" title="Vercel" />
     </td>
   </tr>
 </table>
