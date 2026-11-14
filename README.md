@@ -1,24 +1,18 @@
-# <div align="center">
+<div align="center">
 
 <img src="./assets/header_banner.svg" width="100%" alt="Header Banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=4CD7F6&center=true&vCenter=true&width=560&lines=Full-Stack+Web+%26+Flutter+Mobile+Developer;Crafting+High-Performance+Modern+Apps;Reverse+Engineering+%26+MCP+Tooling;%22Make+it+possible%22" alt="Typing SVG" />
-</a>
+<br/>
 
 <p align="center">
-  <a href="https://portofolio-v2-one-gray.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0b1326?style=for-the-badge&logo=vercel&logoColor=4cd7f6" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/ridhotawang" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lavenderpoet607@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/6281311685803" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=4CD7F6&center=true&vCenter=true&width=560&lines=Full-Stack+Web+%26+Flutter+Mobile+Developer;Crafting+High-Performance+Modern+Apps;Reverse+Engineering+%26+MCP+Tooling;%22Make+it+possible%22" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="https://portofolio-v2-one-gray.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0b1326?style=for-the-badge&logo=vercel&logoColor=4cd7f6" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/ridhotawang" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:lavenderpoet607@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/6281311685803" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 </div>
