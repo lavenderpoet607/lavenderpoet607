@@ -119,17 +119,17 @@ availability: "Open for freelance, contract, or full-time opportunities"
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lavenderpoet607&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1326&title_color=4cd7f6&text_color=c0c1ff&icon_color=4cd7f6" alt="Ridho's GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats-pi-six.vercel.app/api?username=lavenderpoet607&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1326&title_color=4cd7f6&text_color=c0c1ff&icon_color=4cd7f6" alt="Ridho's GitHub Stats" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavenderpoet607&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1326&title_color=4cd7f6&text_color=c0c1ff" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats-pi-six.vercel.app/api/top-langs/?username=lavenderpoet607&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1326&title_color=4cd7f6&text_color=c0c1ff" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavenderpoet607&theme=tokyonight&hide_border=true&background=0b1326&ring=4cd7f6&fire=ffb95f&currStreakLabel=4cd7f6" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=lavenderpoet607&theme=tokyonight&hide_border=true&background=0b1326&ring=4cd7f6&fire=ffb95f&currStreakLabel=4cd7f6" alt="GitHub Streak" />
 </div>
 
 ---
