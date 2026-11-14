@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://portofolio-v2-one-gray.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0b1326?style=for-the-badge&logo=vercel&logoColor=4cd7f6" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/ridhotawang" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/lavenderpoet608" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:lavenderpoet607@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/6281311685803" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
@@ -135,6 +136,7 @@ availability: "Open for freelance, contract, or full-time opportunities"
   <br/><br/>
   <a href="https://portofolio-v2-one-gray.vercel.app/">🌐 Website</a> •
   <a href="https://linkedin.com/in/ridhotawang">💼 LinkedIn</a> •
+  <a href="https://t.me/lavenderpoet608">✈️ Telegram</a> •
   <a href="mailto:lavenderpoet607@gmail.com">📬 Email</a> •
   <a href="https://wa.me/6281311685803">💬 WhatsApp</a>
 </p>
