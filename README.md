@@ -132,13 +132,17 @@ availability: "Open for freelance, contract, or full-time opportunities"
 ### 🤝 Connect & Collaborate
 
 <p align="center">
-  I am always open to discussing new projects, software architecture, mobile engineering, and creative ideas.
+  <a href="https://portofolio-v2-one-gray.vercel.app/" target="_blank"><img src="./assets/icons/globe.svg" width="42" height="42" alt="Website" title="Website / Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ridhotawang" target="_blank"><img src="./assets/icons/linkedin.svg" width="42" height="42" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://t.me/lavenderpoet608" target="_blank"><img src="./assets/icons/telegram.svg" width="42" height="42" alt="Telegram" title="Telegram" /></a>&nbsp;&nbsp;
+  <a href="mailto:lavenderpoet607@gmail.com"><img src="./assets/icons/email.svg" width="42" height="42" alt="Email" title="Email" /></a>&nbsp;&nbsp;
+  <a href="https://wa.me/6281311685803" target="_blank"><img src="./assets/icons/whatsapp.svg" width="42" height="42" alt="WhatsApp" title="WhatsApp" /></a>
   <br/><br/>
-  <a href="https://portofolio-v2-one-gray.vercel.app/">🌐 Website</a> •
-  <a href="https://linkedin.com/in/ridhotawang">💼 LinkedIn</a> •
-  <a href="https://t.me/lavenderpoet608">✈️ Telegram</a> •
-  <a href="mailto:lavenderpoet607@gmail.com">📬 Email</a> •
-  <a href="https://wa.me/6281311685803">💬 WhatsApp</a>
+  <a href="https://portofolio-v2-one-gray.vercel.app/">Website</a> •
+  <a href="https://linkedin.com/in/ridhotawang">LinkedIn</a> •
+  <a href="https://t.me/lavenderpoet608">Telegram</a> •
+  <a href="mailto:lavenderpoet607@gmail.com">Email</a> •
+  <a href="https://wa.me/6281311685803">WhatsApp</a>
 </p>
 
 <div align="center">
